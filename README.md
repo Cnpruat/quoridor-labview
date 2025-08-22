@@ -19,7 +19,7 @@ Il convient d'éviter d'enfermer son adversaire ou de bloquer tout chemin possib
 ## Configuration
 Chacun des 2 joueurs devra lancer une version différente du programme. L'un la [version server](/quoridor_server.vi) et l'autre la [version client](/quoridor_client.vi). 
 
-Afin de relier les 2 instances, il est nécessaire de récupérer l'adresse IP locale de l'ordinateur qui héberge la version server. Pour cela, entrez dans l'invité de commande : 
+Afin de relier les 2 instances, il est nécessaire de récupérer l'adresse IP locale de l'ordinateur qui héberge la version server. Pour cela, il faut entrer dans l'invité de commande : 
 
 ~~~bash
 ipconfig
