@@ -25,7 +25,7 @@ Afin de relier les 2 instances, il est nécessaire de récupérer l'adresse IP l
 ipconfig
 ~~~
 
-Reportez alors cette adresse IP dans le block diagramm de l'instance client tel que (exemple avec l'adresse 127.0.0.1) : 
+Reportez alors l'adresse IP obtenue dans le block diagramm de l'instance client tel que (exemple avec l'adresse 127.0.0.1) : 
 
 
 
