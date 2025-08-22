@@ -66,5 +66,3 @@ Ce projet a été réalisé dans le cadre du module d'informatique industrielle 
 pierre.bourrandy@etu.unilim.fr *(ENSIL-ENSCI)*
 
 https://github.com/Cnpruat/quoridor-labview *(GitHub)*
-
-"# quoridor-labview" 
